@@ -10,24 +10,24 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Machine Learning Projects**
+ 🔭 I’m currently working on **front-end developing projects**
  
- 🌱 I’m currently learning **Deep Learning, SQL, PowerBI, NLP**
+ 🌱 I’m currently learning **Reactjs,Nextjs,Javscript,Figma designing**
 
-💬 Ask me about **Mahcine Learning, Data Manipulation... or anything [here](https://github.com/iAsadPanhwar/iAsadPanhwar/issues)**
+💬 Ask me about **Reactjs,Nextjs,Javscript,Figma designing... or anything [here](https://github.com/Amiralichohan/Amiralichohan/issues)**
 
 ⚡ Fun fact **Your brain is constantly eating itself.**
 
  </div>
  
 <div align="center"> 
-  <a href="mailto:asadalipuh5@gmail.com">
+  <a href="mailto:Amiralichohan786@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/asad-panhwar-03aa92236/" target="_blank">
+  <a href="https://www.linkedin.com/in/amir-ali-chohan-794b42232/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://iAsadPanhwar.github.io" target="_blank">
+  <a href="https://Amiralichohan.github.io" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
