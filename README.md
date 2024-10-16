@@ -41,13 +41,6 @@
     <img src="https://skillicons.dev/icons?i=java,react,js,css,ts,nodejs,figma&theme=light" /><br>
 </div>
 
-<br/>
-
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-
-
 <br/><br/>
 
 <hr/>
