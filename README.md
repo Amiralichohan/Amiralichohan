@@ -38,7 +38,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,vscode,github,git" /><br>
-    <img src="https://skillicons.dev/icons?i=java,react,js,css,ts,nodejs,figma&theme=light" /><br>
+    <img src="https://skillicons.dev/icons?i=java,react,js,css,ts,nodejs,figma&theme=light , Canva " /><br>
 </div>
 
 <br/><br/>
