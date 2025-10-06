@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **front-end developing projects**
  
- 🌱 I’m currently learning **Reactjs,Nextjs,Javscript,Figma designing**
+ 🌱 I’m currently learning **Reactjs,Nextjs,Javscript , TypeScript, Express Js, Node Js , Mantine UI,,Figma designing**
 
 💬 Ask me about **Reactjs,Nextjs,Javscript,Figma designing... or anything [here](https://github.com/Amiralichohan/Amiralichohan/issues)**
 
@@ -38,7 +38,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,vscode,github,git" /><br>
-    <img src="https://skillicons.dev/icons?i=java,react,js,css,ts,nodejs,figma&theme=light , Canva " /><br>
+    <img src="https://skillicons.dev/icons?i=java,react,js,css,ts,nodejs,figma&theme=light , Canva ,bootstrap ,express " /><br>
 </div>
 
 <br/><br/>
