@@ -1,56 +1,61 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Amiralichohan.Amiralichohan" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Amir+Chohan!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=520&height=70&duration=4000&lines=Hi+There!;+I'm+Amir+Ali+Chohan;" />
 </h1>
 
-<h3 align="center">A passionate Front-end devloper and UI/UX designer from Pakistan </h3>
+<h3 align="center">
+Front-End Developer & UI/UX Designer from Pakistan
+</h3>
 
 <br/>
 
 <div align="center">
- 
- 🔭 I’m currently working on **front-end developing projects**
- 
- 🌱 I’m currently learning **Reactjs,Nextjs,Javscript , TypeScript, Express Js, Node Js , Mantine UI,,Figma designing**
 
-💬 Ask me about **Reactjs,Nextjs,Javscript,Figma designing... or anything [here](https://github.com/Amiralichohan/Amiralichohan/issues)**
+🔭 Currently working on **Front-End & UI Projects**  
+🌱 Learning **React, Next.js, JavaScript, TypeScript, Node.js, Express & Modern UI Libraries**  
+💬 Ask me about **Front-End, UI/UX, Figma, React or anything here:**  
+<a href="https://github.com/Amiralichohan/Amiralichohan/issues">Open an Issue</a>  
 
-⚡ Fun fact **Your brain is constantly eating itself.**
+</div>
 
- </div>
- 
+<br/>
+
 <div align="center"> 
-  <a href="mailto:Amiralichohan786@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  <a href="mailto:amiralichohan786@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail" />
   </a>
   <a href="https://www.linkedin.com/in/amir-ali-chohan-794b42232/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://Amiralichohan.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  <a href="https://amiralichohan.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=google-chrome" />
   </a>
 </div>
-
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,vscode,github,git" /><br>
-    <img src="https://skillicons.dev/icons?i=java,react,js,css,ts,nodejs,figma&theme=light , Canva ,bootstrap ,express " /><br>
-</div>
-
-<br/><br/>
 
 <hr/>
 
+<h2 align="center">Languages, Frameworks & Tools</h2>
+
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amiralichohan&layout=pie&size_weight=0.5&count_weight=0.5&hide=Tcl,C,Cython,SCSS)
-
 <div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Play a chess with me' /></a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,bootstrap,mantine" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,canva" />
 </div>
 
 <br/>
+
+
+
+<br/>
+
+
+<br/>
+
+<hr/>
+
+<div align="center">
+  <em>Focused on clean UI architecture, scalable front-end code & real-world usability.</em>
+</div>
