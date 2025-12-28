@@ -13,9 +13,9 @@ Front-End Developer & UI/UX Designer from Pakistan
 <div align="center">
 
 🔭 Currently working on **Front-End & UI Projects**  
-🌱 Learning **React, Next.js, JavaScript, TypeScript, Node.js, Express & Modern UI Libraries**  
-💬 Ask me about **Front-End, UI/UX, Figma, React or anything here:**  
-<a href="https://github.com/Amiralichohan/Amiralichohan/issues">Open an Issue</a>  
+🌱 Learning **React, Next.js, JavaScript, TypeScript, Node.js & Express**  
+💬 Ask me about **Front-End, UI/UX, Figma, React**  
+📫 Email: **amiralichohan786@gmail.com**
 
 </div>
 
@@ -37,25 +37,26 @@ Front-End Developer & UI/UX Designer from Pakistan
 
 <h2 align="center">Languages, Frameworks & Tools</h2>
 
-<br/>
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,bootstrap,mantine" />
   <br/><br/>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,canva" />
 </div>
 
-<br/>
+<hr/>
 
+<h2 align="center">GitHub Overview</h2>
 
+<div align="center">
 
-<br/>
+<br/><br/>
 
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Amiralichohan&hide_border=true)
 
-<br/>
+</div>
 
 <hr/>
 
 <div align="center">
-  <em>Focused on clean UI architecture, scalable front-end code & real-world usability.</em>
+  <em>Focused on clean UI architecture, scalable front-end code, and real-world usability.</em>
 </div>
